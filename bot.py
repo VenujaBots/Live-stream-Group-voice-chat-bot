@@ -8,9 +8,9 @@ from pytgcalls import GroupCall
 
 
 
-API_ID = int(os.environ.get("API_ID",12345))
-API_HASH = os.environ.get("API_HASH","")
-SESSION_NAME = os.environ.get("SESSION_NAME","")
+API_ID = int(os.environ.get("API_ID",7395896))
+API_HASH = os.environ.get("API_HASH","cd3998ddf318dad74d7c506731bc0abc")
+SESSION_NAME = os.environ.get("SESSION_NAME","BQCzsuXwrGOtlF7CcoNO-WZTp1FVuIi_W7-2ZCShKj0nz7fFfXJMPDgnchpmqSMsNiJJoDsNLqRbGenptmdY52L72WCQLqNBnku8Wf-24X9hGfNy3Sbm3gneTyZ24svIX9lt8CYdBgQGMAkwZVSDAEEz7q8nRyd6NAC7Z2azw3ffDmVhqQmCw8NakaD0Zsylrv1WTlqN_uHbPHJdsonwwyEP1EPie-5SFWCBfe_31djSET3x2WjRB0xmefxPGkxCybJLUEUPv9ouP0hytTaBZzVS3Pj_Vog3CuowJW2DTvIphaAZiW0Eykr2wg3ePqHvCgCEwTNdm7wP1rfhpdGrKZvKbN33ZwA")
 
 
 app = Client(SESSION_NAME, API_ID, API_HASH)
