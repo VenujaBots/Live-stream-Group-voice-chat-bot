@@ -19,7 +19,7 @@ Generate Your Session string 👇
 <a href="https://replit.com/@lntechnical/GenerateStringSession#main.py">CLICK HERE</a>
 
 ## HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/Live-stream-Group-voice-chat-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaBots/Live-stream-Group-voice-chat-bot)
 
 ### Get YouTube live stream link 
 #### install youtube_dl
